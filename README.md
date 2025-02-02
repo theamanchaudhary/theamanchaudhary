@@ -118,9 +118,7 @@
 	</a>
 </p>
 <br />
-<img align="center"
-	src="https://activity-graph.herokuapp.com/graph?username=theamanchaudhary&theme=react-dark&hide_border=true&area=true" />
-<br />
+
 <b>I'm a Night 🦉</b>
 
 ```text
