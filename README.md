@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!</h1><br>
+<h1 align="center">𝐻𝑒𝓁𝓁𝑜, &lt;𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇𝓈/&gt;!</h1><br>
 
 <p align="center">
 	<img alt="profile views" src="https://komarev.com/ghpvc/?username=theamanchaudhary&style=flat-square"> ·
