@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AMAN+CHAUDHARY+(%23THE+ONLY+1);Hey+There!+I'm+Aman+Chaudhary;Full+Stack+Developer+💻;Telegram+Bot+Developer+🤖;Automation+%7C+AI+%7C+APIs+%7C+Cloud+☁️;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AMAN+CHAUDHARY+(%23THE+ONLY+1);Hey+There!+I'm+Aman+Chaudhary;Full+Stack+Developer+💻;Telegram+Bot+Developer+🤖;Automation+%7C+AI+%7C+APIs+%7C+Cloud+☁️;Always+learning+new+things+🚀&cache_buster=1" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
@@ -7,6 +7,7 @@
 <p align="center">
   <b>💻 Developer | 🤖 Telegram Bot Creator | 🚀 Tech Explorer</b>
 </p>
+
 <p align="center">
   <a href="https://github.com/theamanchaudhary">
     <img src="https://img.shields.io/github/followers/theamanchaudhary?label=Followers&style=flat&color=0e75b6" />
@@ -18,6 +19,8 @@
     <img src="https://img.shields.io/badge/Email-theamanchaudhary%40gmail.com-red?logo=gmail" />
   </a>
 </p>
+
+---
 
 ### 👨‍💻 About Me
 
