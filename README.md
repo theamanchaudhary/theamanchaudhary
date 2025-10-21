@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AMAN+CHAUDHARY+(%23THE+ONLY+1);Hey+There!+I'm+Aman+Chaudhary;Full+Stack+Developer+💻;Telegram+Bot+Developer+🤖;Automation+%7C+AI+%7C+APIs+%7C+Cloud+☁️;Always+learning+new+things+🚀&cache_buster=7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AMAN+CHAUDHARY+(%23THE+ONLY+1);Hey+There!+I'm+Aman+Chaudhary;Full+Stack+Developer+💻;Telegram+Bot+Developer+🤖;Automation+%7C+AI+%7C+APIs+%7C+Cloud+☁️;Always+learning+new+things+🚀&cache_buster=9" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzjrwpXMiLwL/giphy.gif" width="30px" height="30px" alt="Waving Hand GIF" /> Welcome to My GitHub Profile
+</h1>
 
 <p align="center">
   <b>💻 Developer | 🤖 Telegram Bot Creator | 🚀 Tech Explorer</b>
@@ -60,6 +62,10 @@
 
 🌀 **Connect on Telegram:** [@amanbotz](https://t.me/amanbotz)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theamanchaudhary&repo=YOUR_FAVORITE_REPO_NAME&theme=tokyonight&hide_border=true&title_color=00F7FF&line_height=20" alt="Pinned Project Card" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -70,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamanchaudhary&layout=compact&theme=tokyonight&hide_border=true&custom_title=TOP%20LANGUAGES" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamanchaudhary&layout=compact&theme=tokyonight&hide_border=true&custom_title=MOST%20USED%20LANGUAGES" />
 </p>
 
 ---
@@ -128,3 +134,4 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=theamanchaudhary%2Ftheamanchaudhary&countColor=%23FF0000&style=flat-square&labelColor=%230D1117" alt="Profile Views"/>
 </p>
+
