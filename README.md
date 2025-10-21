@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+There!+I'm+Aman+Chaudhary;Full+Stack+Developer+💻;Telegram+Bot+Developer+🤖;Automation+%7C+AI+%7C+APIs+%7C+Cloud+☁️;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Josefin+sense&pause=1000&color=5AB9F7&width=435&lines=AMAN+CHAUDHARY+(%23THE+ONLY+1)font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+There!+I'm+Aman+Chaudhary;Full+Stack+Developer+💻;Telegram+Bot+Developer+🤖;Automation+%7C+AI+%7C+APIs+%7C+Cloud+☁️;Always+learning+new+things+🚀" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
