@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AMAN+CHAUDHARY+(%23THE+ONLY+1);Hey+There!+I'm+Aman+Chaudhary;Full+Stack+Developer+💻;Telegram+Bot+Developer+🤖;Automation+%7C+AI+%7C+APIs+%7C+Cloud+☁️;Always+learning+new+things+🚀&cache_buster=4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AMAN+CHAUDHARY+(%23THE+ONLY+1);Hey+There!+I'm+Aman+Chaudhary;Full+Stack+Developer+💻;Telegram+Bot+Developer+🤖;Automation+%7C+AI+%7C+APIs+%7C+Cloud+☁️;Always+learning+new+things+🚀&cache_buster=5" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
@@ -73,6 +73,12 @@
 
 ---
 
+### ✨ Dynamic Contribution Zone ✨
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600" height="20" alt="Animated Divider" />
+</p>
+
 ### 🌱 Contribution Graph
 
 <p align="center">
@@ -102,7 +108,7 @@
     <img src="https://img.shields.io/badge/Email-theamanchaudhary%40gmail.com-red?logo=gmail&style=for-the-badge" />
   </a>
   <a href="https://github.com/theamanchaudhary">
-    <img src="https://img.shields.io/badge/GitHub-theamanchaudhary-black?logo=github&style=for-the-badge" />
+    <img src="https://img.io/badge/GitHub-theamanchaudhary-black?logo=github&style=for-the-badge" />
   </a>
 </p>
 
