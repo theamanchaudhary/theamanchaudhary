@@ -63,7 +63,7 @@
 🌀 **Connect on Telegram:** [@amanbotz](https://t.me/amanbotz)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theamanchaudhary&repo=YOUR_FAVORITE_REPO_NAME&theme=tokyonight&hide_border=true&title_color=00F7FF&line_height=20" alt="Pinned Project Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theamanchaudhary&repo=VideoStreamBot&theme=tokyonight&hide_border=true&title_color=00F7FF&line_height=20" alt="Pinned Project Card" />
 </p>
 
 ---
