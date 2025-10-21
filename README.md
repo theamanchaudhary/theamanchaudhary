@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AMAN+CHAUDHARY+(%23THE+ONLY+1);Hey+There!+I'm+Aman+Chaudhary;Full+Stack+Developer+💻;Telegram+Bot+Developer+🤖;Automation+%7C+AI+%7C+APIs+%7C+Cloud+☁️;Always+learning+new+things+🚀&cache_buster=5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AMAN+CHAUDHARY+(%23THE+ONLY+1);Hey+There!+I'm+Aman+Chaudhary;Full+Stack+Developer+💻;Telegram+Bot+Developer+🤖;Automation+%7C+AI+%7C+APIs+%7C+Cloud+☁️;Always+learning+new+things+🚀&cache_buster=7" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
@@ -22,13 +22,15 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-- 🧠 Passionate about **automation, AI integration, and scalable backend systems**
-- 💡 Creator of **Telegram bots** serving thousands of users
-- 🔧 Skilled in **Python**, **Node.js**, **JavaScript**, **PHP**, **SQL**, and **Docker**
-- ⚙️ Experienced with **VPS deployment**, **Heroku**, and **cloud workflows**
-- 📈 Focused on building **useful and high-performance** projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Passionate_About-Automation_%7C_AI-16A085?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-Serving_Users-3498DB?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skilled_In-Python_%7C_Node.js-FF8C00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-VPS_%7C_Heroku-8A2BE2?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goal-High_Performance_Projects-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRkZENzAwIiBkPSJNMjU2IDhDMTE5IDggOCAxMTkgOCAyNTZzMTExIDI0OCAyNDggMjQ4IDI0OC0xMTEgMjQ4LTI0OFMzOTMgOCAyNTYgOHpNMzIyLjg0IDIwMi43bC05MS4xLTU1LjYzYy05LjYtNS44OS0yMi41LTEuNjUtMjUuMiA5Ljg1bC0xMS40IDc0LjM3Yy0yLjcgMTIuNSAzLjQ2IDI1LjE1IDE0LjcgMzEuNzhsNzguOTkgNDUuNTRjMTIuNTQgNy4yNCAyOC41MyAzLjQyIDMzLjY3LTguOTNsMi43LTM3Ljg0Yy44OC0xMi4zIDkuNjQtMjIuMTUgMjEuOC0yNC42MiA1LjM0LTEuMDcgMTAuMzItMS44NiAxNS43Ni0yLjQybDUuNjMtLjM4YzEzLjM0LTEuNzUgMjIuNjMtMTQuNTIgMjAuMDQtMjcuNDFsLTguNC00My41NWMtLjgzLTMuNTgtMi41NC03LjIyLTUuMTgtOS44NnoiLz48L3N2Zz4=" alt="High Performance Projects Badge" />
+</p>
 
 ---
 
@@ -76,7 +78,8 @@
 ### ✨ Dynamic Contribution Zone ✨
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600" height="20" alt="Animated Divider" />
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600" height="20" alt="Animated Divider" />
 </p>
 
 ### 🌱 Contribution Graph
@@ -108,7 +111,7 @@
     <img src="https://img.shields.io/badge/Email-theamanchaudhary%40gmail.com-red?logo=gmail&style=for-the-badge" />
   </a>
   <a href="https://github.com/theamanchaudhary">
-    <img src="https://img.io/badge/GitHub-theamanchaudhary-black?logo=github&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-theamanchaudhary-black?logo=github&style=for-the-badge" />
   </a>
 </p>
 
