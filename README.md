@@ -1,25 +1,39 @@
+<!-- 🌌 GitHub Profile | Aman Chaudhary | AmanBotz™ -->
+<!-- Designed by ChatGPT (Enhanced Cinematic Edition) -->
+
+<!-- 🧠 HERO SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AMAN+CHAUDHARY+(%23THE+ONLY+1);Hey+There!+I'm+Aman+Chaudhary;Full+Stack+Developer+💻;Telegram+Bot+Developer+🤖;Automation+%7C+AI+%7C+APIs+%7C+Cloud+☁️;Always+learning+new+things+🚀&cache_buster=9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+Code.+Automating+Worlds.+Building+the+Future.;Hey+There!+I'm+Aman+Chaudhary+👋;Full+Stack+Developer+💻;Telegram+Bot+Engineer+🤖;Automation+%7C+AI+%7C+Cloud+☁️;Learning+%26+Building+Every+Day+🚀" 
+  alt="Typing SVG" />
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzjrwpXMiLwL/giphy.gif" width="30px" height="30px" alt="Waving Hand GIF" /> Welcome to My GitHub Profile
+  <img src="https://media.giphy.com/media/hvRJCLFzjrwpXMiLwL/giphy.gif" width="30px" height="30px" alt="Waving Hand" />
+  Welcome to the Automation Zone ⚡
 </h1>
 
 <p align="center">
-  <b>💻 Developer | 🤖 Telegram Bot Creator | 🚀 Tech Explorer</b>
+  <b>💻 Full Stack Developer | 🤖 Telegram Bot Creator | ☁️ Cloud & Automation Expert</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/theamanchaudhary">
-    <img src="https://img.shields.io/github/followers/theamanchaudhary?label=FOLLOWERS&style=for-the-badge&color=2088FF&logo=github" />
+    <img src="https://img.shields.io/github/followers/theamanchaudhary?label=FOLLOWERS&style=for-the-badge&color=00E6FE&logo=github" />
   </a>
   <a href="https://t.me/amanbotz">
-    <img src="https://img.shields.io/badge/Telegram-%40amanbotz-blue?logo=telegram&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Telegram-%40amanbotz-00BFFF?logo=telegram&style=for-the-badge" />
   </a>
   <a href="mailto:don't.mail.@gmail.com">
-    <img src="https://img.shields.io/badge/Email-don't.mail.%40gmail.com-red?logo=gmail&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-don't.mail.%40gmail.com-FF4444?logo=gmail&style=for-the-badge" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="700" height="20" alt="Divider" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theamanchaudhary&theme=darkhub&no-frame=true&margin-w=10&no-bg=true&title=Stars,Followers,Commits,Repositories" alt="Trophies" />
 </p>
 
 ---
@@ -31,7 +45,7 @@
   <img src="https://img.shields.io/badge/Telegram_Bots-Serving_Users-3498DB?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Skilled_In-Python_%7C_Node.js-FF8C00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Deployment-VPS_%7C_Heroku-8A2BE2?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Goal-High_Performance_Projects-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRkZENzAwIiBkPSJNMjU2IDhDMTE5IDggOCAxMTkgOCAyNTZzMTExIDI0OCAyNDggMjQ4IDI0OC0xMTEgMjQ4LTI0OFMzOTMgOCAyNTYgOHpNMzIyLjg0IDIwMi43bC05MS4xLTU1LjYzYy05LjYtNS44OS0yMi41LTEuNjUtMjUuMiA5Ljg1bC0xMS40IDc0LjM3Yy0yLjcgMTIuNSAzLjQ2IDI1LjE1IDE0LjcgMzEuNzhsNzguOTkgNDUuNTRjMTIuNTQgNy4yNCAyOC41MyAzLjQyIDMzLjY3LTguOTNsMi43LTM3Ljg0Yy44OC0xMi4zIDkuNjQtMjIuMTUgMjEuOC0yNC42MiA1LjM0LTEuMDcgMTAuMzItMS44NiAxNS43Ni0yLjQybDUuNjMtLjM4YzEzLjM0LTEuNzUgMjIuNjMtMTQuNTIgMjAuMDQtMjcuNDFsLTguNC00My41NWMtLjgzLTMuNTgtMi41NC03LjIyLTUuMTgtOS44NnoiLz48L3N2Zz4=" alt="High Performance Projects Badge" />
+  <img src="https://img.shields.io/badge/Goal-High_Performance_Projects-FFD700?style=for-the-badge" />
 </p>
 
 ---
@@ -81,13 +95,6 @@
 
 ---
 
-### ✨ Dynamic Contribution Zone ✨
-
-<p align="center">
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600" height="20" alt="Animated Divider" />
-</p>
-
 ### 🌱 Contribution Graph
 
 <p align="center">
@@ -96,29 +103,13 @@
 
 ---
 
-### 🏆 Unique Achievements Badges
+### 🏆 Achievements & Titles
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/FULL_STACK-DEVELOPER-306998?style=for-the-badge&logo=react&logoColor=2088FF" alt="Full Stack Developer Badge"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/TELEGRAM_BOTS-MASTER-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot Master Badge"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/AUTOMATION-EXPERT-FF4500?style=for-the-badge&logo=docker&logoColor=white" alt="Automation Expert Badge"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/CLOUD_WORKFLOWS-SCALABLE-0099D8?style=for-the-badge&logo=heroku&logoColor=white" alt="Cloud Workflows Badge"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://t.me/amanbotz">
-    <img src="https://img.shields.io/badge/Telegram-%40amanbotz-blue?logo=telegram&style=for-the-badge" />
-  </a>
-  <a href="mailto:don't.mail.@gmail.com">
-    <img src="https://img.shields.io/badge/Email-theamanchaudhary%40gmail.com-red?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/theamanchaudhary">
-    <img src="https://img.shields.io/badge/GitHub-theamanchaudhary-black?logo=github&style=for-the-badge" />
-  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/FULL_STACK-DEVELOPER-306998?style=for-the-badge&logo=react&logoColor=2088FF" />
+  <img src="https://custom-icon-badges.demolab.com/badge/TELEGRAM_BOTS-MASTER-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AUTOMATION-EXPERT-FF4500?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CLOUD_WORKFLOWS-SCALABLE-0099D8?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 
 ---
@@ -129,9 +120,44 @@
 
 ---
 
-### 👁️ Animated Profile Views (Night Theme)
+### 👁️ Profile Views
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=theamanchaudhary%2Ftheamanchaudhary&countColor=%23FF0000&style=flat-square&labelColor=%230D1117" alt="Profile Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=theamanchaudhary%2Ftheamanchaudhary&countColor=%23FF0000&style=flat-square&labelColor=%230D1117" />
 </p>
 
+---
+
+<!-- 💫 SIGNATURE FOOTER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="700" height="20" alt="Divider" />
+</p>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=⚙️+AmanBotz™;Automation+Redefined.;Code.+Automate.+Deploy.+Repeat.💻" alt="Signature Typing SVG" />
+</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer&text=⚡%20AMAN%20CHAUDHARY%20⚡&fontSize=35&fontColor=0d1117&animation=twinkling&fontAlignY=40" alt="Footer Wave"/>
+</p>
+
+<p align="center">
+  <a href="https://t.me/amanbotz" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%40amanbotz-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/theamanchaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-theamanchaudhary-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:don't.mail.@gmail.com">
+    <img src="https://img.shields.io/badge/Email-don't.mail.%40gmail.com-FF4444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Made+with+❤️+by+Aman+Chaudhary;Thanks+for+visiting!+Come+back+soon+🚀" alt="Footer Animation" />
+</p>
+
+<!-- 💻 Optional Matrix Background (adds a digital glow effect) -->
+<p align="center">
+  <img src="https://i.imgur.com/q3h0E4L.gif" width="100%" alt="Matrix Background Animation"/>
+</p>
