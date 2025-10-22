@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Telegram-%40amanbotz-blue?logo=telegram&style=for-the-badge" />
   </a>
   <a href="mailto:don't.mail.@gmail.com">
-    <img src="https://img.shields.io/badge/Email-theamanchaudhary%40gmail.com-red?logo=gmail&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-don't.mail.%40gmail.com-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
