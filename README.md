@@ -17,7 +17,7 @@
   <a href="https://t.me/amanbotz">
     <img src="https://img.shields.io/badge/Telegram-%40amanbotz-blue?logo=telegram&style=for-the-badge" />
   </a>
-  <a href="mailto:theamanchaudhary@gmail.com">
+  <a href="mailto:don't.mail.@gmail.com">
     <img src="https://img.shields.io/badge/Email-theamanchaudhary%40gmail.com-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
@@ -60,7 +60,7 @@
 - 🧠 AI-Integrated Captioning & Reply Bots  
 - 🚀 Multi-channel automation systems  
 
-🌀 **Connect on Telegram:** [Aman Botz](https://t.me/amanbotz)
+🌀 **Connect on Telegram:** [𝑨𝒎𝒂𝒏 𝑩𝒐𝒕𝒛™](https://t.me/amanbotz)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=theamanchaudhary&repo=channelpostfilter&theme=tokyonight&hide_border=true&title_color=00F7FF&line_height=20" alt="Pinned Project Card" />
@@ -113,7 +113,7 @@
   <a href="https://t.me/amanbotz">
     <img src="https://img.shields.io/badge/Telegram-%40amanbotz-blue?logo=telegram&style=for-the-badge" />
   </a>
-  <a href="mailto:theamanchaudhary@gmail.com">
+  <a href="mailto:don't.mail.@gmail.com">
     <img src="https://img.shields.io/badge/Email-theamanchaudhary%40gmail.com-red?logo=gmail&style=for-the-badge" />
   </a>
   <a href="https://github.com/theamanchaudhary">
