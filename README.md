@@ -134,7 +134,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=⚙️+AmanBotz™;Automation+Redefined.;Code.+Automate.+Deploy.+Repeat.💻" alt="Signature Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=⚙️+AmanBotz™;Automation+Redefined.;CCode.+Automate.+Deploy.+Repeat.💻" alt="Signature Typing SVG" />
 </h2>
 
 <p align="center">
@@ -157,7 +157,3 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Made+with+❤️+by+Aman+Chaudhary;Thanks+for+visiting!+Come+back+soon+🚀" alt="Footer Animation" />
 </p>
 
-<!-- 💻 Optional Matrix Background (adds a digital glow effect) -->
-<p align="center">
-  <img src="https://i.imgur.com/q3h0E4L.gif" width="100%" alt="Matrix Background Animation"/>
-</p>
