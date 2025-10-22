@@ -3,7 +3,7 @@
 
 <!-- 🧠 HERO SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+Code.+Automating+Worlds.+Building+the+Future.;Hey+There!+I'm+Aman+Chaudhary+(#The Only 1)+👋;Full+Stack+Developer+💻;Telegram+Bot+Engineer+🤖;Automation+%7C+AI+%7C+Cloud+☁️;Learning+%26+Building+Every+Day+🚀" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Automating+Worlds.+Building+the+Future.;Hey+I'm+Aman+Chaudhary+(#The+Only+1)+👋;Full+Stack+Developer+💻;Telegram+Bot+Engineer+🤖;Automation+%7C+AI+%7C+Cloud+☁️;Learning+%26+Building+Every+Day+🚀" 
   alt="Typing SVG" />
 </p>
 
